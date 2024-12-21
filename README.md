@@ -4,4 +4,6 @@
 asdf install deno 2.1.2
 asdf local deno 2.1.2
 deno install
+
+deno task start
 ```
